@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkseafood_backend=self.webpackChunkseafood_backend||[]).push([[4299],{1880:(d,t,e)=>{e.r(t),e.d(t,{default:()=>o});var s=e(67294),E=e(60797),_=e(86706),n=e(36364),a=e(92458);const o=()=>{const P=(0,_.v9)(n._);return s.createElement(E.O4,{permissions:P.settings["api-tokens"].create},s.createElement(a.Z,null))}}}]);

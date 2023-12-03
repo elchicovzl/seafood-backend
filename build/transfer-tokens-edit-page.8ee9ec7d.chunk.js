@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkseafood_backend=self.webpackChunkseafood_backend||[]).push([[2492],{63252:(P,s,e)=>{e.r(s),e.d(s,{default:()=>r});var t=e(67294),n=e(60797),E=e(86706),_=e(36364),a=e(43467);const r=()=>{const o=(0,E.v9)(_._);return t.createElement(n.O4,{permissions:o.settings["transfer-tokens"].read},t.createElement(a.Z,null))}}}]);
