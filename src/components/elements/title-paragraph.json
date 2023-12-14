@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_elements_title_paragraphs",
+  "info": {
+    "displayName": "TitleParagraph"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "paragraph": {
+      "displayName": "Paragraph",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.paragraph"
+    }
+  }
+}

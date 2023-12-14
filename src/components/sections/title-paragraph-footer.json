@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_title_paragraph_footers",
+  "info": {
+    "displayName": "TitleParagraphFooter"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "paragraph": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.paragraph"
+    }
+  }
+}

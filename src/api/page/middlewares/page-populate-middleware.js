@@ -12,6 +12,25 @@ const populate = {
           fields: ["heading", "description"],
         },
       },
+      picture: {
+        populate: {
+          media: {
+            fields: ["url", "alternativeText", "caption", "width", "height"],
+          },
+        },
+      },
+      bgHero: {
+        populate: {
+          media: {
+            fields: ["url", "alternativeText", "caption", "width", "height"],
+          },
+        },
+      },
+      buttonHero: {
+        populate: {
+          fields: ["url", "text", "newTab", "type"],
+        },
+      },
     },
   }
 };

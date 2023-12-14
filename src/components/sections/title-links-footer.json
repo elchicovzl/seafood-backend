@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_title_links_footers",
+  "info": {
+    "displayName": "TitleLinksFooter"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "displayName": "Url",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.url"
+    }
+  }
+}

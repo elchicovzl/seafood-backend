@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_elements_urls",
+  "info": {
+    "displayName": "Url"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    }
+  }
+}
