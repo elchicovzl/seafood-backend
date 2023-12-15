@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_sections_banner_statistics_sections",
+  "info": {
+    "displayName": "BannerStatisticsSection"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

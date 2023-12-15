@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_sections_box_icon_sections",
+  "info": {
+    "displayName": "BoxIconSection"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

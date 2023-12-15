@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_sections_mansory_sections",
+  "info": {
+    "displayName": "MansorySection"
+  },
+  "options": {},
+  "attributes": {
+    "mansorySection": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

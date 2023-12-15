@@ -31,6 +31,27 @@ const populate = {
           fields: ["url", "text", "newTab", "type"],
         },
       },
+      TitleParagraphTwoColumns: {
+        fields: ["title"],
+        populate: ["welcomeParagraph"]
+      },
+      welcomeButton:{
+        populate:true
+      },
+      welcomePicture: {
+        populate: {
+          media: {
+            fields: ["url", "alternativeText", "caption", "width", "height"],
+          },
+        },
+      },
+      welcomeImages: {
+        populate: {
+          media: {
+            fields: ["url", "alternativeText", "caption", "width", "height"],
+          },
+        },
+      },
     },
   }
 };

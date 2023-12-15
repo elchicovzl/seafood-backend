@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_elements_title_paragraph_two_columns",
+  "info": {
+    "displayName": "TitleParagraphTwoColumns"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "welcomeParagraph": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.paragraph"
+    }
+  }
+}

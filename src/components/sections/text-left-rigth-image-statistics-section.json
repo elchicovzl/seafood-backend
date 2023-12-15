@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_sections_text_left_rigth_image_statistics_sections",
+  "info": {
+    "displayName": "TextLeftRigthImageStatisticsSection"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

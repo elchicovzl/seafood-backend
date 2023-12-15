@@ -1,0 +1,43 @@
+{
+  "collectionName": "components_sections_welcome_sections",
+  "info": {
+    "displayName": "WelcomeSection"
+  },
+  "options": {},
+  "attributes": {
+    "fishTitle": {
+      "type": "string"
+    },
+    "TitleParagraphTwoColumns": {
+      "displayName": "TitleParagraphTwoColumns",
+      "type": "component",
+      "repeatable": false,
+      "component": "elements.title-paragraph-two-columns"
+    },
+    "welcomeButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button-link"
+    },
+    "welcomePicture": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "welcomeImages": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

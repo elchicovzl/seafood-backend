@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_sections_bg_banner_right_box_sections",
+  "info": {
+    "displayName": "BgBannerRightBoxSection"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
