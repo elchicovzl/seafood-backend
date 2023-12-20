@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_header_sections",
+  "info": {
+    "displayName": "HeaderSection"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "bgHero": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

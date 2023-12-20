@@ -65,7 +65,8 @@
         "sections.bg-banner-right-box-section",
         "sections.text-left-rigth-image-statistics-section",
         "sections.banner-statistics-section",
-        "sections.our-products-section"
+        "sections.our-products-section",
+        "sections.header-section"
       ]
     }
   }
